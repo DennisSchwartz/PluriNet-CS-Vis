@@ -1,0 +1,23 @@
+/* Overall styles */
+
+body {
+    background: #E2E2E2;
+    padding-top: 0;
+}
+
+.banner {
+    border: none;
+    padding: 0;
+    height: 100px;
+    width: 100%;
+    position: relative;
+    /*alignment: top; */
+    background-color: #78B7E7;
+}
+
+h1 {
+
+    padding: 10px;
+
+    
+}

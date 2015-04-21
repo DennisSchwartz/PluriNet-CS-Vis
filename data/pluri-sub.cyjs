@@ -1,0 +1,772 @@
+{
+  "format_version" : "1.0",
+  "generated_by" : "cytoscape-3.2.1",
+  "target_cytoscapejs_version" : "~2.1",
+  "data" : {
+    "selected" : true,
+    "__Annotations" : [ ],
+    "shared_name" : "SubnetInteractions.sif",
+    "SUID" : 1847,
+    "name" : "SubnetInteractions.sif"
+  },
+  "elements" : {
+    "nodes" : [ {
+      "data" : {
+        "id" : "1919",
+        "shared_name" : "Utf1",
+        "selected" : false,
+        "SUID" : 1919,
+        "name" : "Utf1"
+      }
+    }, {
+      "data" : {
+        "id" : "1903",
+        "shared_name" : "Relb",
+        "selected" : false,
+        "SUID" : 1903,
+        "name" : "Relb"
+      }
+    }, {
+      "data" : {
+        "id" : "1893",
+        "shared_name" : "Klf5",
+        "selected" : false,
+        "SUID" : 1893,
+        "name" : "Klf5"
+      }
+    }, {
+      "data" : {
+        "id" : "1889",
+        "shared_name" : "Sall4",
+        "selected" : false,
+        "SUID" : 1889,
+        "name" : "Sall4"
+      }
+    }, {
+      "data" : {
+        "id" : "1885",
+        "shared_name" : "Cdx2",
+        "selected" : false,
+        "SUID" : 1885,
+        "name" : "Cdx2"
+      }
+    }, {
+      "data" : {
+        "id" : "1883",
+        "shared_name" : "Gata6",
+        "selected" : false,
+        "SUID" : 1883,
+        "name" : "Gata6"
+      }
+    }, {
+      "data" : {
+        "id" : "1880",
+        "shared_name" : "Klf2",
+        "selected" : false,
+        "SUID" : 1880,
+        "name" : "Klf2"
+      }
+    }, {
+      "data" : {
+        "id" : "1872",
+        "shared_name" : "Tcfap2c",
+        "selected" : false,
+        "SUID" : 1872,
+        "name" : "Tcfap2c"
+      }
+    }, {
+      "data" : {
+        "id" : "1869",
+        "shared_name" : "Klf4",
+        "selected" : false,
+        "SUID" : 1869,
+        "name" : "Klf4"
+      }
+    }, {
+      "data" : {
+        "id" : "1867",
+        "shared_name" : "Sox2",
+        "selected" : false,
+        "SUID" : 1867,
+        "name" : "Sox2"
+      }
+    }, {
+      "data" : {
+        "id" : "1865",
+        "shared_name" : "Pou5f1",
+        "selected" : false,
+        "SUID" : 1865,
+        "name" : "Pou5f1"
+      }
+    }, {
+      "data" : {
+        "id" : "1862",
+        "shared_name" : "Tcfcp2l1",
+        "selected" : false,
+        "SUID" : 1862,
+        "name" : "Tcfcp2l1"
+      }
+    }, {
+      "data" : {
+        "id" : "1860",
+        "shared_name" : "Fgf4",
+        "selected" : false,
+        "SUID" : 1860,
+        "name" : "Fgf4"
+      }
+    }, {
+      "data" : {
+        "id" : "1858",
+        "shared_name" : "Esrrb",
+        "selected" : false,
+        "SUID" : 1858,
+        "name" : "Esrrb"
+      }
+    }, {
+      "data" : {
+        "id" : "1857",
+        "shared_name" : "Nanog",
+        "selected" : false,
+        "SUID" : 1857,
+        "name" : "Nanog"
+      }
+    } ],
+    "edges" : [ {
+      "data" : {
+        "id" : "1923",
+        "source" : "1893",
+        "target" : "1858",
+        "interaction" : "stim",
+        "selected" : false,
+        "shared_interaction" : "stim",
+        "shared_name" : "Klf5 (stim) Esrrb",
+        "SUID" : 1923,
+        "name" : "Klf5 (stim) Esrrb"
+      }
+    }, {
+      "data" : {
+        "id" : "1894",
+        "source" : "1893",
+        "target" : "1857",
+        "interaction" : "stim",
+        "selected" : false,
+        "shared_interaction" : "stim",
+        "shared_name" : "Klf5 (stim) Nanog",
+        "SUID" : 1894,
+        "name" : "Klf5 (stim) Nanog"
+      }
+    }, {
+      "data" : {
+        "id" : "1900",
+        "source" : "1889",
+        "target" : "1857",
+        "interaction" : "stim",
+        "selected" : false,
+        "shared_interaction" : "stim",
+        "shared_name" : "Sall4 (stim) Nanog",
+        "SUID" : 1900,
+        "name" : "Sall4 (stim) Nanog"
+      }
+    }, {
+      "data" : {
+        "id" : "1891",
+        "source" : "1889",
+        "target" : "1869",
+        "interaction" : "stim",
+        "selected" : false,
+        "shared_interaction" : "stim",
+        "shared_name" : "Sall4 (stim) Klf4",
+        "SUID" : 1891,
+        "name" : "Sall4 (stim) Klf4"
+      }
+    }, {
+      "data" : {
+        "id" : "1890",
+        "source" : "1889",
+        "target" : "1865",
+        "interaction" : "stim",
+        "selected" : false,
+        "shared_interaction" : "stim",
+        "shared_name" : "Sall4 (stim) Pou5f1",
+        "SUID" : 1890,
+        "name" : "Sall4 (stim) Pou5f1"
+      }
+    }, {
+      "data" : {
+        "id" : "1899",
+        "source" : "1885",
+        "target" : "1857",
+        "interaction" : "inh",
+        "selected" : false,
+        "shared_interaction" : "inh",
+        "shared_name" : "Cdx2 (inh) Nanog",
+        "SUID" : 1899,
+        "name" : "Cdx2 (inh) Nanog"
+      }
+    }, {
+      "data" : {
+        "id" : "1887",
+        "source" : "1885",
+        "target" : "1865",
+        "interaction" : "inh",
+        "selected" : false,
+        "shared_interaction" : "inh",
+        "shared_name" : "Cdx2 (inh) Pou5f1",
+        "SUID" : 1887,
+        "name" : "Cdx2 (inh) Pou5f1"
+      }
+    }, {
+      "data" : {
+        "id" : "1886",
+        "source" : "1885",
+        "target" : "1885",
+        "interaction" : "stim",
+        "selected" : false,
+        "shared_interaction" : "stim",
+        "shared_name" : "Cdx2 (stim) Cdx2",
+        "SUID" : 1886,
+        "name" : "Cdx2 (stim) Cdx2"
+      }
+    }, {
+      "data" : {
+        "id" : "1898",
+        "source" : "1883",
+        "target" : "1857",
+        "interaction" : "inh",
+        "selected" : false,
+        "shared_interaction" : "inh",
+        "shared_name" : "Gata6 (inh) Nanog",
+        "SUID" : 1898,
+        "name" : "Gata6 (inh) Nanog"
+      }
+    }, {
+      "data" : {
+        "id" : "1884",
+        "source" : "1883",
+        "target" : "1883",
+        "interaction" : "stim",
+        "selected" : false,
+        "shared_interaction" : "stim",
+        "shared_name" : "Gata6 (stim) Gata6",
+        "SUID" : 1884,
+        "name" : "Gata6 (stim) Gata6"
+      }
+    }, {
+      "data" : {
+        "id" : "1922",
+        "source" : "1880",
+        "target" : "1858",
+        "interaction" : "stim",
+        "selected" : false,
+        "shared_interaction" : "stim",
+        "shared_name" : "Klf2 (stim) Esrrb",
+        "SUID" : 1922,
+        "name" : "Klf2 (stim) Esrrb"
+      }
+    }, {
+      "data" : {
+        "id" : "1892",
+        "source" : "1880",
+        "target" : "1857",
+        "interaction" : "stim",
+        "selected" : false,
+        "shared_interaction" : "stim",
+        "shared_name" : "Klf2 (stim) Nanog",
+        "SUID" : 1892,
+        "name" : "Klf2 (stim) Nanog"
+      }
+    }, {
+      "data" : {
+        "id" : "1924",
+        "source" : "1869",
+        "target" : "1858",
+        "interaction" : "stim",
+        "selected" : false,
+        "shared_interaction" : "stim",
+        "shared_name" : "Klf4 (stim) Esrrb",
+        "SUID" : 1924,
+        "name" : "Klf4 (stim) Esrrb"
+      }
+    }, {
+      "data" : {
+        "id" : "1912",
+        "source" : "1869",
+        "target" : "1865",
+        "interaction" : "stim",
+        "selected" : false,
+        "shared_interaction" : "stim",
+        "shared_name" : "Klf4 (stim) Pou5f1",
+        "SUID" : 1912,
+        "name" : "Klf4 (stim) Pou5f1"
+      }
+    }, {
+      "data" : {
+        "id" : "1911",
+        "source" : "1869",
+        "target" : "1867",
+        "interaction" : "stim",
+        "selected" : false,
+        "shared_interaction" : "stim",
+        "shared_name" : "Klf4 (stim) Sox2",
+        "SUID" : 1911,
+        "name" : "Klf4 (stim) Sox2"
+      }
+    }, {
+      "data" : {
+        "id" : "1895",
+        "source" : "1869",
+        "target" : "1857",
+        "interaction" : "stim",
+        "selected" : false,
+        "shared_interaction" : "stim",
+        "shared_name" : "Klf4 (stim) Nanog",
+        "SUID" : 1895,
+        "name" : "Klf4 (stim) Nanog"
+      }
+    }, {
+      "data" : {
+        "id" : "1877",
+        "source" : "1869",
+        "target" : "1869",
+        "interaction" : "stim",
+        "selected" : false,
+        "shared_interaction" : "stim",
+        "shared_name" : "Klf4 (stim) Klf4",
+        "SUID" : 1877,
+        "name" : "Klf4 (stim) Klf4"
+      }
+    }, {
+      "data" : {
+        "id" : "1921",
+        "source" : "1867",
+        "target" : "1919",
+        "interaction" : "stim",
+        "selected" : false,
+        "shared_interaction" : "stim",
+        "shared_name" : "Sox2 (stim) Utf1",
+        "SUID" : 1921,
+        "name" : "Sox2 (stim) Utf1"
+      }
+    }, {
+      "data" : {
+        "id" : "1918",
+        "source" : "1867",
+        "target" : "1860",
+        "interaction" : "stim",
+        "selected" : false,
+        "shared_interaction" : "stim",
+        "shared_name" : "Sox2 (stim) Fgf4",
+        "SUID" : 1918,
+        "name" : "Sox2 (stim) Fgf4"
+      }
+    }, {
+      "data" : {
+        "id" : "1917",
+        "source" : "1867",
+        "target" : "1867",
+        "interaction" : "stim",
+        "selected" : false,
+        "shared_interaction" : "stim",
+        "shared_name" : "Sox2 (stim) Sox2",
+        "SUID" : 1917,
+        "name" : "Sox2 (stim) Sox2"
+      }
+    }, {
+      "data" : {
+        "id" : "1916",
+        "source" : "1867",
+        "target" : "1857",
+        "interaction" : "stim",
+        "selected" : false,
+        "shared_interaction" : "stim",
+        "shared_name" : "Sox2 (stim) Nanog",
+        "SUID" : 1916,
+        "name" : "Sox2 (stim) Nanog"
+      }
+    }, {
+      "data" : {
+        "id" : "1915",
+        "source" : "1867",
+        "target" : "1865",
+        "interaction" : "stim",
+        "selected" : false,
+        "shared_interaction" : "stim",
+        "shared_name" : "Sox2 (stim) Pou5f1",
+        "SUID" : 1915,
+        "name" : "Sox2 (stim) Pou5f1"
+      }
+    }, {
+      "data" : {
+        "id" : "1875",
+        "source" : "1867",
+        "target" : "1872",
+        "interaction" : "stim",
+        "selected" : false,
+        "shared_interaction" : "stim",
+        "shared_name" : "Sox2 (stim) Tcfap2c",
+        "SUID" : 1875,
+        "name" : "Sox2 (stim) Tcfap2c"
+      }
+    }, {
+      "data" : {
+        "id" : "1920",
+        "source" : "1865",
+        "target" : "1919",
+        "interaction" : "stim",
+        "selected" : false,
+        "shared_interaction" : "stim",
+        "shared_name" : "Pou5f1 (stim) Utf1",
+        "SUID" : 1920,
+        "name" : "Pou5f1 (stim) Utf1"
+      }
+    }, {
+      "data" : {
+        "id" : "1914",
+        "source" : "1865",
+        "target" : "1865",
+        "interaction" : "inh",
+        "selected" : false,
+        "shared_interaction" : "inh",
+        "shared_name" : "Pou5f1 (inh) Pou5f1",
+        "SUID" : 1914,
+        "name" : "Pou5f1 (inh) Pou5f1"
+      }
+    }, {
+      "data" : {
+        "id" : "1913",
+        "source" : "1865",
+        "target" : "1867",
+        "interaction" : "stim",
+        "selected" : false,
+        "shared_interaction" : "stim",
+        "shared_name" : "Pou5f1 (stim) Sox2",
+        "SUID" : 1913,
+        "name" : "Pou5f1 (stim) Sox2"
+      }
+    }, {
+      "data" : {
+        "id" : "1897",
+        "source" : "1865",
+        "target" : "1857",
+        "interaction" : "stim",
+        "selected" : false,
+        "shared_interaction" : "stim",
+        "shared_name" : "Pou5f1 (stim) Nanog",
+        "SUID" : 1897,
+        "name" : "Pou5f1 (stim) Nanog"
+      }
+    }, {
+      "data" : {
+        "id" : "1896",
+        "source" : "1865",
+        "target" : "1889",
+        "interaction" : "inte",
+        "selected" : false,
+        "shared_interaction" : "inte",
+        "shared_name" : "Pou5f1 (inte) Sall4",
+        "SUID" : 1896,
+        "name" : "Pou5f1 (inte) Sall4"
+      }
+    }, {
+      "data" : {
+        "id" : "1888",
+        "source" : "1865",
+        "target" : "1885",
+        "interaction" : "inh",
+        "selected" : false,
+        "shared_interaction" : "inh",
+        "shared_name" : "Pou5f1 (inh) Cdx2",
+        "SUID" : 1888,
+        "name" : "Pou5f1 (inh) Cdx2"
+      }
+    }, {
+      "data" : {
+        "id" : "1882",
+        "source" : "1865",
+        "target" : "1860",
+        "interaction" : "stim",
+        "selected" : false,
+        "shared_interaction" : "stim",
+        "shared_name" : "Pou5f1 (stim) Fgf4",
+        "SUID" : 1882,
+        "name" : "Pou5f1 (stim) Fgf4"
+      }
+    }, {
+      "data" : {
+        "id" : "1881",
+        "source" : "1865",
+        "target" : "1880",
+        "interaction" : "stim",
+        "selected" : false,
+        "shared_interaction" : "stim",
+        "shared_name" : "Pou5f1 (stim) Klf2",
+        "SUID" : 1881,
+        "name" : "Pou5f1 (stim) Klf2"
+      }
+    }, {
+      "data" : {
+        "id" : "1879",
+        "source" : "1865",
+        "target" : "1869",
+        "interaction" : "inte",
+        "selected" : false,
+        "shared_interaction" : "inte",
+        "shared_name" : "Pou5f1 (inte) Klf4",
+        "SUID" : 1879,
+        "name" : "Pou5f1 (inte) Klf4"
+      }
+    }, {
+      "data" : {
+        "id" : "1873",
+        "source" : "1865",
+        "target" : "1872",
+        "interaction" : "stim",
+        "selected" : false,
+        "shared_interaction" : "stim",
+        "shared_name" : "Pou5f1 (stim) Tcfap2c",
+        "SUID" : 1873,
+        "name" : "Pou5f1 (stim) Tcfap2c"
+      }
+    }, {
+      "data" : {
+        "id" : "1878",
+        "source" : "1862",
+        "target" : "1865",
+        "interaction" : "stim",
+        "selected" : false,
+        "shared_interaction" : "stim",
+        "shared_name" : "Tcfcp2l1 (stim) Pou5f1",
+        "SUID" : 1878,
+        "name" : "Tcfcp2l1 (stim) Pou5f1"
+      }
+    }, {
+      "data" : {
+        "id" : "1876",
+        "source" : "1862",
+        "target" : "1869",
+        "interaction" : "stim",
+        "selected" : false,
+        "shared_interaction" : "stim",
+        "shared_name" : "Tcfcp2l1 (stim) Klf4",
+        "SUID" : 1876,
+        "name" : "Tcfcp2l1 (stim) Klf4"
+      }
+    }, {
+      "data" : {
+        "id" : "1871",
+        "source" : "1858",
+        "target" : "1858",
+        "interaction" : "stim",
+        "selected" : false,
+        "shared_interaction" : "stim",
+        "shared_name" : "Esrrb (stim) Esrrb",
+        "SUID" : 1871,
+        "name" : "Esrrb (stim) Esrrb"
+      }
+    }, {
+      "data" : {
+        "id" : "1870",
+        "source" : "1858",
+        "target" : "1869",
+        "interaction" : "stim",
+        "selected" : false,
+        "shared_interaction" : "stim",
+        "shared_name" : "Esrrb (stim) Klf4",
+        "SUID" : 1870,
+        "name" : "Esrrb (stim) Klf4"
+      }
+    }, {
+      "data" : {
+        "id" : "1868",
+        "source" : "1858",
+        "target" : "1867",
+        "interaction" : "stim",
+        "selected" : false,
+        "shared_interaction" : "stim",
+        "shared_name" : "Esrrb (stim) Sox2",
+        "SUID" : 1868,
+        "name" : "Esrrb (stim) Sox2"
+      }
+    }, {
+      "data" : {
+        "id" : "1866",
+        "source" : "1858",
+        "target" : "1865",
+        "interaction" : "stim",
+        "selected" : false,
+        "shared_interaction" : "stim",
+        "shared_name" : "Esrrb (stim) Pou5f1",
+        "SUID" : 1866,
+        "name" : "Esrrb (stim) Pou5f1"
+      }
+    }, {
+      "data" : {
+        "id" : "1864",
+        "source" : "1858",
+        "target" : "1857",
+        "interaction" : "stim",
+        "selected" : false,
+        "shared_interaction" : "stim",
+        "shared_name" : "Esrrb (stim) Nanog",
+        "SUID" : 1864,
+        "name" : "Esrrb (stim) Nanog"
+      }
+    }, {
+      "data" : {
+        "id" : "1863",
+        "source" : "1858",
+        "target" : "1862",
+        "interaction" : "stim",
+        "selected" : false,
+        "shared_interaction" : "stim",
+        "shared_name" : "Esrrb (stim) Tcfcp2l1",
+        "SUID" : 1863,
+        "name" : "Esrrb (stim) Tcfcp2l1"
+      }
+    }, {
+      "data" : {
+        "id" : "1861",
+        "source" : "1858",
+        "target" : "1860",
+        "interaction" : "stim",
+        "selected" : false,
+        "shared_interaction" : "stim",
+        "shared_name" : "Esrrb (stim) Fgf4",
+        "SUID" : 1861,
+        "name" : "Esrrb (stim) Fgf4"
+      }
+    }, {
+      "data" : {
+        "id" : "1910",
+        "source" : "1857",
+        "target" : "1885",
+        "interaction" : "inh",
+        "selected" : false,
+        "shared_interaction" : "inh",
+        "shared_name" : "Nanog (inh) Cdx2",
+        "SUID" : 1910,
+        "name" : "Nanog (inh) Cdx2"
+      }
+    }, {
+      "data" : {
+        "id" : "1909",
+        "source" : "1857",
+        "target" : "1857",
+        "interaction" : "stim",
+        "selected" : false,
+        "shared_interaction" : "stim",
+        "shared_name" : "Nanog (stim) Nanog",
+        "SUID" : 1909,
+        "name" : "Nanog (stim) Nanog"
+      }
+    }, {
+      "data" : {
+        "id" : "1908",
+        "source" : "1857",
+        "target" : "1883",
+        "interaction" : "inh",
+        "selected" : false,
+        "shared_interaction" : "inh",
+        "shared_name" : "Nanog (inh) Gata6",
+        "SUID" : 1908,
+        "name" : "Nanog (inh) Gata6"
+      }
+    }, {
+      "data" : {
+        "id" : "1907",
+        "source" : "1857",
+        "target" : "1889",
+        "interaction" : "stim",
+        "selected" : false,
+        "shared_interaction" : "stim",
+        "shared_name" : "Nanog (stim) Sall4",
+        "SUID" : 1907,
+        "name" : "Nanog (stim) Sall4"
+      }
+    }, {
+      "data" : {
+        "id" : "1906",
+        "source" : "1857",
+        "target" : "1865",
+        "interaction" : "inte",
+        "selected" : false,
+        "shared_interaction" : "inte",
+        "shared_name" : "Nanog (inte) Pou5f1",
+        "SUID" : 1906,
+        "name" : "Nanog (inte) Pou5f1"
+      }
+    }, {
+      "data" : {
+        "id" : "1905",
+        "source" : "1857",
+        "target" : "1860",
+        "interaction" : "stim",
+        "selected" : false,
+        "shared_interaction" : "stim",
+        "shared_name" : "Nanog (stim) Fgf4",
+        "SUID" : 1905,
+        "name" : "Nanog (stim) Fgf4"
+      }
+    }, {
+      "data" : {
+        "id" : "1904",
+        "source" : "1857",
+        "target" : "1903",
+        "interaction" : "inh",
+        "selected" : false,
+        "shared_interaction" : "inh",
+        "shared_name" : "Nanog (inh) Relb",
+        "SUID" : 1904,
+        "name" : "Nanog (inh) Relb"
+      }
+    }, {
+      "data" : {
+        "id" : "1902",
+        "source" : "1857",
+        "target" : "1869",
+        "interaction" : "stim",
+        "selected" : false,
+        "shared_interaction" : "stim",
+        "shared_name" : "Nanog (stim) Klf4",
+        "SUID" : 1902,
+        "name" : "Nanog (stim) Klf4"
+      }
+    }, {
+      "data" : {
+        "id" : "1901",
+        "source" : "1857",
+        "target" : "1893",
+        "interaction" : "stim",
+        "selected" : false,
+        "shared_interaction" : "stim",
+        "shared_name" : "Nanog (stim) Klf5",
+        "SUID" : 1901,
+        "name" : "Nanog (stim) Klf5"
+      }
+    }, {
+      "data" : {
+        "id" : "1874",
+        "source" : "1857",
+        "target" : "1872",
+        "interaction" : "stim",
+        "selected" : false,
+        "shared_interaction" : "stim",
+        "shared_name" : "Nanog (stim) Tcfap2c",
+        "SUID" : 1874,
+        "name" : "Nanog (stim) Tcfap2c"
+      }
+    }, {
+      "data" : {
+        "id" : "1859",
+        "source" : "1857",
+        "target" : "1858",
+        "interaction" : "stim",
+        "selected" : false,
+        "shared_interaction" : "stim",
+        "shared_name" : "Nanog (stim) Esrrb",
+        "SUID" : 1859,
+        "name" : "Nanog (stim) Esrrb"
+      }
+    } ]
+  }
+}
