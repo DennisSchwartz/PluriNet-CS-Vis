@@ -42,13 +42,14 @@ var cy = cytoscape({
                 var expr = baby.parse(data, { delimiter: ";", header: true });
                 console.log(expr);
                 // get cell 103
-                var cell = expr.data[103];
+                var cell = expr.data[213];
                 // go trough expression data and add it to the respective node
                 for (var key in cell) {
                     if (cell.hasOwnProperty(key)) {
                         for (var i = 0; i < interaction.elements.nodes.length; i++) {
                             if (interaction.elements.nodes[i].data.name === key) {
-                                interaction.elements.nodes[i].data.expr = parseFloat(cell[key].replace(",", "."));
+                                // Values are not yet normalized!!
+                                interaction.elements.nodes[i].data.expr = -1 * parseFloat(cell[key].replace(",", "."));
                             }
                         }
                     }
@@ -71,12 +72,12 @@ var cy = cytoscape({
             'content': 'data(name)',
             'text-valign': 'center',
             'color': 'white',
-            'background-color': 'mapData(expr, 12, 28, red, yellow)',
+            'background-color': 'mapData(expr, -28, -12, red, yellow)',
             'text-outline-width': 2,
             'text-outline-color': '#888',
             'min-zoomed-font-size': 8,
-            'width': 'mapData(expr, 10, 28, 20, 60)',
-            'height': 'mapData(expr, 10, 28, 20, 60)'
+            'width': 'mapData(expr, -28, -10, 20, 60)',
+            'height': 'mapData(expr, -28, -10, 20, 60)'
         })
         .selector('node:selected')
         .css({
