@@ -8,7 +8,6 @@ var rootDiv = document.getElementById('rootDiv');
 // 'imports'
 var cytoscape = require("cytoscape");
 var baby = require("babyparse");
-var fs = require('fs');
 
 // Div styling
 rootDiv.style.left = 0;

@@ -10,7 +10,6 @@ var rootDiv = document.getElementById('rootDiv');
 var cytoscape = require("cytoscape");
 var baby = require("babyparse");
 
-
 // Div styling
 rootDiv.style.left = 0;
 rootDiv.style.top = 0;
