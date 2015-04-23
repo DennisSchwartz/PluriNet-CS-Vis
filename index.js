@@ -40,7 +40,7 @@ var cy = cytoscape({
                 var expr = baby.parse(data, { delimiter: ";", header: true });
                 console.log(expr);
                 // get cell 103
-                var cell = expr.data[213];
+                var cell = expr.data[103];
                 // go trough expression data and add it to the respective node
                 for (var key in cell) {
                     if (cell.hasOwnProperty(key)) {
